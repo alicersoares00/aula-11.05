@@ -1,0 +1,36 @@
+body{
+    background-color: #e5ff73;
+    font-family: 'Open Sans',sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.title{
+    font-size: 70px;
+    text-align: center;
+}
+.img-title{
+    width: 650px;
+    
+}
+.SO-footer{
+    background-color: #ffc112;
+    height: 70px;
+}
+.p-footer{
+    color: white;
+}
+section{
+    display: flex;
+    border: solid 2px black;
+    padding: 40px;
+    margin: 20px;
+}
+ul{
+    padding: 40px;
+}
+.store-name{
+    
+}
